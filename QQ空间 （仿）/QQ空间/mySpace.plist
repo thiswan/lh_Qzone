@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>visitor.png</string>
+		<key>visitorLabel</key>
+		<string>最近访客</string>
+		<key>visitorFriendIcon</key>
+		<string>11.png</string>
+		<key>friendName</key>
+		<string>魔术</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>birth.png</string>
+		<key>visitorLabel</key>
+		<string>好友生日</string>
+		<key>visitorFriendIcon</key>
+		<string>12.png</string>
+		<key>friendName</key>
+		<string>讯哥</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>icon_profile_color_music_myspace</string>
+		<key>visitorLabel</key>
+		<string>背景音乐</string>
+		<key>visitorFriendIcon</key>
+		<string></string>
+		<key>friendName </key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>qinglv.png</string>
+		<key>visitorLabel</key>
+		<string>情侣空间</string>
+		<key>visitorFriendIcon</key>
+		<string></string>
+		<key>friendName </key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>game_app_click</string>
+		<key>visitorLabel</key>
+		<string>特别关心</string>
+		<key>visitorFriendIcon</key>
+		<string></string>
+		<key>friendName </key>
+		<string></string>
+	</dict>
+</array>
+</plist>

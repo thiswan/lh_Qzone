@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>friendIcon</key>
+		<string>21.png</string>
+		<key>friendNickName</key>
+		<string>诺 /mg伊</string>
+		<key>appreciateTime</key>
+		<string>今天 10：25</string>
+	</dict>
+	<dict>
+		<key>friendIcon</key>
+		<string>22.png</string>
+		<key>friendNickName</key>
+		<string>吴彦祖</string>
+		<key>appreciateTime</key>
+		<string>今天 10：30</string>
+	</dict>
+	<dict>
+		<key>friendIcon</key>
+		<string>23.png</string>
+		<key>friendNickName</key>
+		<string>习近平</string>
+		<key>appreciateTime</key>
+		<string>今天 10：35</string>
+	</dict>
+	<dict>
+		<key>friendIcon</key>
+		<string>24.png</string>
+		<key>friendNickName</key>
+		<string>科院刘德华</string>
+		<key>appreciateTime</key>
+		<string>今天 14：34</string>
+	</dict>
+	<dict>
+		<key>friendIcon</key>
+		<string>25.png</string>
+		<key>friendNickName</key>
+		<string>英语系小弟</string>
+		<key>appreciateTime</key>
+		<string>今天 15：16</string>
+	</dict>
+	<dict>
+		<key>friendIcon</key>
+		<string>26.png</string>
+		<key>friendNickName</key>
+		<string>小黑</string>
+		<key>appreciateTime</key>
+		<string>今天 16：53</string>
+	</dict>
+	<dict>
+		<key>friendIcon</key>
+		<string>27.png</string>
+		<key>friendNickName</key>
+		<string>陈燕子双学姐</string>
+		<key>appreciateTime</key>
+		<string>昨天</string>
+	</dict>
+	<dict>
+		<key>friendIcon</key>
+		<string>28.png</string>
+		<key>friendNickName</key>
+		<string>讯哥</string>
+		<key>appreciateTime</key>
+		<string>昨天 22：45</string>
+	</dict>
+	<dict>
+		<key>friendIcon</key>
+		<string>29.png</string>
+		<key>friendNickName</key>
+		<string>李克强</string>
+		<key>appreciateTime</key>
+		<string>昨天 23：54</string>
+	</dict>
+	<dict>
+		<key>friendIcon</key>
+		<string>30.png</string>
+		<key>friendNickName</key>
+		<string>古力娜扎</string>
+		<key>appreciateTime</key>
+		<string>昨天23：59</string>
+	</dict>
+</array>
+</plist>
